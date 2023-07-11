@@ -40,8 +40,8 @@
 <br>
 <div align=center>
 	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrongTyphoon&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=StrongTyphoon&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaePoong719&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=TaePoong719&show_icons=true">
 
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
