@@ -20,6 +20,12 @@
 	<p>✨ FrameWork / Library ✨</p>
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
+
+<br>
+<br>
+	<p>✨ Deploy / Dev✨</p>
+	<img src="https://img.shields.io/badge/netlify-00C7B7?style=flat&logo=firebase&logoColor=white">
+	<img src="https://img.shields.io/badge/parcel-5BA745?style=flat&logo=cropper&logoColor=white">
 </div>
 
 
