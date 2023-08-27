@@ -5,7 +5,7 @@
   
 새로운 기술들에 대해 넓은 시각을 갖고자, 다양한 테크 블로그 및 최신 라이브러리 문서 등을 폭넓게 봅니다.  
 <br>
-| 블로그 | 이메일 | 프로그래머스 |
+| 블로그 | 이메일 | 이력서 |
 |--|--|--|
 |https://koeyhhh.tistory.com  | just5538@gmail.com | https://career.programmers.co.kr/pr/just5538_4713 |
 
