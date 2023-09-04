@@ -36,6 +36,8 @@
 	<br>
 	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 	<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" />
+	<br><br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaePoong719&layout=compact">
 </div>
 <br>
 
@@ -54,17 +56,8 @@ https://github.com/free-mint-nft/SoloveProject-v2
 <br>
 
 ## 😎깃허브 / 백준
-
-</div>
-<div>
-<br>
-<div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaePoong719&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=TaePoong719&show_icons=true">
-
-<br>
-<p>🏆 Baekjoon solved rank 🏆</p>
+<div align=center><br>
+<p><b>🏆 Baekjoon solved rank 🏆</b></p>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dngur2008)](https://solved.ac/dngur2008)
 </div>
