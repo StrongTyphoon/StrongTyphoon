@@ -7,7 +7,7 @@
 <br>
 | 블로그 | 이메일 | 이력서 |
 |--|--|--|
-|https://koeyhhh.tistory.com  | just5538@gmail.com | https://career.programmers.co.kr/pr/just5538_4713 |
+|[보러가기](https://koeyhhh.tistory.com)  | [연락하기](just5538@gmail.com) | [보러가기](https://career.programmers.co.kr/pr/just5538_4713) |
 
 ## 🎁기술스택
 
