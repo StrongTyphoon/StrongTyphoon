@@ -43,15 +43,18 @@
 
 ## 🎃Project 경험
 
+### FINSET  
+- AI를 통한 금융 계약서 요약 서비스
+[보러가기](https://github.com/TaePoong719/Summary-Card-Synchathon)
+
+### FASTWIKI
+- 패스트캠퍼스 수강생을 위한 위키
+  [보러가기](https://github.com/TaePoong719/Summary-Card-Synchathon)
+
 #### 롤 챔피언 정보 관리 시스템
-https://github.com/TaePoong719/LoL_Champion_Management
+- 성능최적화된 Vanilla JS를 이용한 SPA 서비스
+  [보러가기](https://github.com/TaePoong719/LoL_Champion_Management)
 
-#### 토스 클론 코딩
-https://github.com/TaePoong719/Toss_Clone_Coding
-
-#### 솔라나 / 이더리움 기반 NFT 
-https://github.com/TaePoong719/MoonSnails
-https://github.com/free-mint-nft/SoloveProject-v2
 <br>
 <br>
 
